@@ -31,12 +31,12 @@ window.DASHBOARD_DATA = {
             {
               text: "為什麼不學 AI 就好？",
               desc: "AI 的產出你要能驗收、能退回，因此還是要學習基本功。",
-              done: true,
+              done: false,
             },
             {
               text: "為什麼不直接實作？",
               desc: "CI/CD 是一條多節點的流程，先補齊知識點才接得起來。",
-              done: true,
+              done: false,
             },
           ],
         },
@@ -46,12 +46,12 @@ window.DASHBOARD_DATA = {
             {
               text: "技能儀表板",
               desc: "前三週的個人作品，也是你追蹤學習進度的文件。",
-              done: true,
+              done: false,
             },
             {
               text: "CI/CD 部署通知系統",
               desc: "後三週的團隊產物，push 後就自動測試、部署與通知。",
-              done: true,
+              done: false,
             },
           ],
         },
@@ -61,22 +61,22 @@ window.DASHBOARD_DATA = {
             {
               text: "LINE Notify → Messaging API",
               desc: "LINE Notify 已終止服務，改用官方替代方案。",
-              done: true,
+              done: false,
             },
             {
               text: "Gemini CLI → Antigravity CLI",
               desc: "Antigravity 是官方宣布的繼任工具。",
-              done: true,
+              done: false,
             },
             {
               text: "內容重排、總數不減",
               desc: "課綱列出的項目都會涵蓋，並整理成更適合這門課的學習安排。",
-              done: true,
+              done: false,
             },
             {
               text: "技術範圍聚焦",
               desc: "以 Node.js 與 Python 為示範載體，其餘語言提供對照範例。",
-              done: true,
+              done: false,
             },
           ],
         },
